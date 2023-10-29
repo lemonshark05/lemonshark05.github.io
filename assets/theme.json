@@ -1,0 +1,292 @@
+{
+  "themes": [
+    {
+      "name": "Giving Advice",
+      "samples": [
+        {
+          "title": "Helping Your Friend Get in Shape for Summer",
+          "content": "To help your friend get in great shape for the summer, I would suggest a few key tips:"
+        },
+        {
+          "title": "Giving Advice on Buying a First Car",
+          "content": "To help your brother who just got his driver's license and is considering buying his first car, I would offer him the following advice on making this big purchase:"
+        },
+        {
+          "title": "Suggesting a Retirement Property Overseas",
+          "content": "To assist your parents who are contemplating buying a property overseas for their retirement, I would suggest considering the following country and reasons why:"
+        },
+        {
+          "title": "Airport Tips for International Travel",
+          "content": "To help your parents who are flying internationally for the first time, I would provide the following pointers for navigating an airport smoothly:"
+        },
+        {
+          "title": "Choosing a College Major Based on Earning Potential",
+          "content": "To assist your friend who is choosing a college major solely based on earning potential, I would recommend the following field of study:"
+        },
+        {
+          "title": "Making New Friends in a Foreign Country",
+          "content": "To offer suggestions to your friend who is relocating to a foreign country and is unfamiliar with the culture, I would recommend the following tips for making new friends there:"
+        },
+        {
+          "title": "Selecting a Sport for Summer",
+          "content": "To help your friend who is interested in joining a sports team this summer but is not sure which sport to choose, I would suggest the following sport:"
+        },
+        {
+          "title": "Choosing a Musical Instrument",
+          "content": "To help your cousin who is thinking of taking up a musical instrument, I believe the following instrument would be a good fit for him:"
+        },
+        {
+          "title": "Valentine's Day Gift Ideas",
+          "content": "To assist your brother who is looking to buy his girlfriend a special gift for Valentine's Day, I would propose the following gift ideas:"
+        },
+        {
+          "title": "Recommendation for a Device for Online Connection",
+          "content": "To recommend a device for your grandmother who wants to get online to stay connected with her grandchildren, I would suggest the following:"
+        },
+        {
+          "title": "Starting a Business",
+          "content": "To provide suggestions to your friend who is thinking of starting her own business but is unclear on what type to start, I have the following advice for her:"
+        },
+        {
+          "title": "Hosting a Successful Office Party",
+          "content": "To help your boss who plans to throw an office party for everyone, I would offer the following advice for hosting a successful event:"
+        },
+        {
+          "title": "Tips for Meeting Someone Special",
+          "content": "To offer tips to your neighbor who has been single for quite some time and wants to find a partner, I would recommend the following suggestions for meeting someone special:"
+        }
+      ]
+    },
+    {
+      "name": "Personal Experiences",
+      "samples": [
+      {
+      "title": "Discussing Your Favorite High School Class",
+      "content": "Talk about your favorite class in high school. Why did you enjoy it?"
+      },
+      {
+      "title": "Sharing a Proudest Achievement",
+      "content": "Talk about your biggest accomplishment."
+      },
+      {
+      "title": "Recounting a Memorable Trip",
+      "content": "Talk about a favorite trip you took. What made the trip memorable?"
+      },
+      {
+      "title": "Describing a Lifestyle Change",
+      "content": "Talk about a time you made a change in your lifestyle. What was the change, and how did it affect your life?"
+      },
+      {
+      "title": "Explaining a Purchase Regret",
+      "content": "Talk about a purchase you regret making. Why do you regret it?"
+      },
+      {
+      "title": "Recalling a Cherished Childhood Memory",
+      "content": "Talk about your favorite childhood memory. What happened, and why was it memorable?"
+      },
+      {
+      "title": "Narrating How You Met Your Best Friend",
+      "content": "Talk about how you met your best friend."
+      },
+      {
+      "title": "Sharing a Challenge You Overcame",
+      "content": "Talk about a time you overcame a challenge."
+      },
+      {
+      "title": "Revisiting the Most Enjoyable Party",
+      "content": "Talk about the most fun party you ever attended."
+      },
+      {
+      "title": "Discussing Workplace Frustration",
+      "content": "Talk about a frustrating experience you had in the workplace."
+      },
+      {
+      "title": "Exploring a New Experience",
+      "content": "Talk about something you did for the first time. It could be playing a new sport, trying new food, etc."
+      },
+      {
+      "title": "Recalling Help in a Time of Trouble",
+      "content": "Talk about a time someone helped you when you were in trouble."
+      },
+      {
+      "title": "Describing the Best Gift Received",
+      "content": "Talk about the best gift you ever received."
+      }
+      ]
+    },
+    {
+      "name": "Difficult Situations",
+      "samples": [
+        {
+          "title": "Calling in Sick for a Fishing Trip",
+          "content": "Your friends want you to go fishing with them tomorrow, but you have to work. You decide to skip work and go fishing. You have to call your boss and make up an excuse for your absence. What do you say?"
+        },
+        {
+          "title": "Choosing Between Graduation and a Caribbean Cruise",
+          "content": "Your best friend is graduating this weekend, and you promised to attend the graduation. Today, your uncle sent you a message and invited you to go on a cruise with him to the Caribbean — all expenses paid for! You need to call one of them and explain why you can’t make it."
+        },
+        {
+          "title": "Prioritizing Camping Over Helping Your Aunt Move",
+          "content": "Your aunt is moving this weekend, and you offered to help her. You receive a message from your friends inviting you to go camping with them this weekend. You need to call your friends or your aunt and explain why you can’t make it. What do you say?"
+        },
+        {
+          "title": "Discovering Damage to Borrowed iPad",
+          "content": "Your cousin recently borrowed your iPad when his family went on a road trip. After he returned it, you noticed a crack in the glass on the corner of the device. Call him up and explain the discovery. Ask him to pay for the repair."
+        },
+        {
+          "title": "Choosing Between Vacation and Colleague's Wedding",
+          "content": "You recently booked flight tickets for your vacation to Mexico next month. Your colleague has suddenly announced his surprise wedding, which takes place over the dates of your vacation. Either call the airline company and ask for a refund, or call your colleague and explain to him why you can’t attend his wedding."
+        },
+        {
+          "title": "Complaining About Swimming Pool Membership",
+          "content": "You recently bought a three-month membership at the swimming pool near your house. One week after buying the pass, the hot tub and sauna were shut down for renovations which will last two months. Call the swimming pool and voice your complaint. Demand a full or partial refund."
+        },
+        {
+          "title": "Seeking a Shoe Exchange Without a Receipt",
+          "content": "You recently bought a new pair of shoes and realize that they are slightly too small. You want to exchange them for a larger pair but you can’t find the receipt! Call the store and explain your problem. Ask if you can exchange your shoes."
+        },
+        {
+          "title": "Balancing Grandparents' Anniversary and Urgent School Project",
+          "content": "Your grandparents are celebrating their 50th wedding anniversary this Saturday. Your classmate, Anna, needs urgent help with a school project on Saturday. She might fail her class if you don’t help her. Talk to either your grandparents or Anna and explain your situation."
+        },
+        {
+          "title": "Delaying Your Daughter's Smartphone Surprise",
+          "content": "Your daughter’s birthday is next week. She has wanted a new smartphone for a long time. Yesterday, you found a good deal on the latest iPhone and bought it. Today, she calls you from a store asking for your permission to buy the same one you bought for her. If you tell her that you already bought it for her, it will ruin the surprise. Tell her she can’t buy it and make up some reasons why she should wait."
+        },
+        {
+          "title": "Dealing with a Restaurant Reservation Cancellation on Your Anniversary",
+          "content": "It’s your anniversary, and you booked a table at a fancy restaurant. One hour before going to the restaurant, you get a call from a person at the restaurant saying they overbooked the restaurant and will have to cancel your reservation. Either call the manager of the restaurant and demand that they fulfill your reservation, or talk to your spouse about a different option."
+        },
+        {
+          "title": "Choosing Between Charity Event and Helping a Friend",
+          "content": "Your company is hosting a charity event tomorrow. Your boss has asked you to organize the event. You suddenly get a call from your friend asking for urgent help because his basement has flooded. Either call your friend and tell him you can’t help him, or call your boss and explain your friend’s situation."
+        },
+        {
+          "title": "Handling a Speech Mishap at a Company Conference",
+          "content": "You are preparing to give a speech at your company’s annual conference. Ten minutes before your speech, your coworker accidentally spills coffee all over your pants. It looks like you peed your pants. You are embarrassed now and don’t know what to do. Either call your boss and tell him why you can’t give the speech, or give the speech and explain to everyone why your clothes are wet."
+        },
+        {
+          "title": "Choosing Between a Friend's Party and Visiting Relatives",
+          "content": "Your aunt and uncle are driving through your city this weekend. They live far away, and you only get to see them once a year. They want to visit you this Saturday, but you already made plans to go to your friend’s housewarming party. Either call your friend and tell her you can’t attend her party, or call your uncle and aunt and tell them you won’t be able to see them."
+        }
+      ]
+    },
+    {
+      "name": "Opinion",
+      "samples": [
+      {
+      "title": "Are Parents the Best Teachers?",
+      "content": "Do you agree or disagree with the following statement? Parents are the best teachers. Use specific reasons and examples to support your answer."
+      },
+      {
+      "title": "Impact of Easy Food Preparation",
+      "content": "Nowadays, food has become easier to prepare. Has this change improved the way people live? Use specific reasons and examples to support your answer."
+      },
+      {
+      "title": "Moving from Towns to Cities",
+      "content": "These days, many people are moving from towns to cities. Do you think this move will increase their quality of life? Use specific reasons and details to support your answer."
+      },
+      {
+      "title": "Children Having Smartphones",
+      "content": "It is becoming common these days for children to have their own smartphones. Do you think this trend is good or bad? Explain your reasons."
+      },
+      {
+      "title": "Taxation on the Wealthy",
+      "content": "The gap between the rich and the poor is greater than ever before in history. The richest eight people control as much wealth as the poorest half of the world’s population. Do you think governments should increase taxes on the rich?"
+      },
+      {
+      "title": "Banning Children on Flights",
+      "content": "Frequent flyers often complain about crying babies on their flights. Should airlines consider banning children under 5 years old from their flights?"
+      },
+      {
+      "title": "Banning Fragrances in Public Places",
+      "content": "Some people are allergic to fragrances such as perfumes and colognes. Do you think fragrances should be banned in public places to make life easier for people with these allergies?"
+      },
+      {
+      "title": "Mandatory Homeschooling",
+      "content": "Many parents are choosing to homeschool their children because they have lost faith in the education system. Should the government make it mandatory for children to attend a normal school?"
+      },
+      {
+      "title": "Parental Restrictions on Movie Content",
+      "content": "Children these days often watch movies with violence, bad language, and sexual content. Do you think parents should place restrictions on what their kids can watch?"
+      },
+      {
+      "title": "Parental Responsibility for Education Costs",
+      "content": "Do you think parents should pay for their children’s education? Provide reasons to support your opinion."
+      },
+      {
+      "title": "Reduced Working Hours",
+      "content": "In many countries, working 40 hours a week is standard; however, in some countries, such as the Netherlands, working 30 hours a week is average. Do you think governments should lower the number of hours people have to work?"
+      },
+      {
+      "title": "Graffiti as Art or Vandalism",
+      "content": "Graffiti is considered vandalism in Canada. Do you think the government should change this law to allow local artists to paint buildings, bridges, and other public areas?"
+      },
+      {
+      "title": "Government-funded Daycare",
+      "content": "Parents these days often put their children into daycare so that they can work. This is a real necessity especially for single parents. Do you think the government should provide free daycare for its citizens?"
+      }
+      ]
+    },
+    {
+      "name": "Speaking Test Theme 5",
+      "samples": [
+        { "title": "Sample 5-1", "content": "Discuss the importance of lifelong learning and personal development." },
+        { "title": "Sample 5-2", "content": "Share your experiences with overcoming adversity." },
+        { "title": "Sample 5-3", "content": "Talk about the role of technology in education." },
+        { "title": "Sample 5-4", "content": "Describe a cultural event or festival you enjoy attending." },
+        { "title": "Sample 5-5", "content": "Discuss the impact of social responsibility and community involvement." },
+        { "title": "Sample 5-6", "content": "Share your thoughts on the benefits of a diverse and inclusive society." },
+        { "title": "Sample 5-7", "content": "Talk about a recent breakthrough in science or medicine." },
+        { "title": "Sample 5-8", "content": "Describe your favorite form of art and its significance." },
+        { "title": "Sample 5-9", "content": "Discuss the challenges and rewards of entrepreneurship." },
+        { "title": "Sample 5-10", "content": "Share your views on the importance of cross-cultural communication." }
+      ]
+    },
+    {
+      "name": "Speaking Test Theme 6",
+      "samples": [
+        { "title": "Sample 6-1", "content": "Discuss the impact of climate change and environmental conservation." },
+        { "title": "Sample 6-2", "content": "Share your experiences with leadership and teamwork." },
+        { "title": "Sample 6-3", "content": "Talk about the influence of social media on interpersonal relationships." },
+        { "title": "Sample 6-4", "content": "Describe a place of natural beauty that you've visited." },
+        { "title": "Sample 6-5", "content": "Discuss the significance of cultural diversity in workplaces." },
+        { "title": "Sample 6-6", "content": "Share your thoughts on the future of artificial intelligence." },
+        { "title": "Sample 6-7", "content": "Talk about a historical period that interests you the most." },
+        { "title": "Sample 6-8", "content": "Describe a volunteer or community service experience you've had." },
+        { "title": "Sample 6-9", "content": "Discuss the challenges and opportunities of remote work." },
+        { "title": "Sample 6-10", "content": "Share your views on the importance of empathy and emotional intelligence." }
+      ]
+    },
+    {
+      "name": "Speaking Test Theme 7",
+      "samples": [
+        { "title": "Sample 7-1", "content": "Talk about your favorite form of entertainment (e.g., movies, music, sports)." },
+        { "title": "Sample 7-2", "content": "Share your experiences with setting and achieving personal goals." },
+        { "title": "Sample 7-3", "content": "Discuss the impact of online education and e-learning platforms." },
+        { "title": "Sample 7-4", "content": "Describe a place you consider to be a hidden gem." },
+        { "title": "Sample 7-5", "content": "Discuss the importance of creativity and innovation in the workplace." },
+        { "title": "Sample 7-6", "content": "Share your thoughts on the future of renewable energy sources." },
+        { "title": "Sample 7-7", "content": "Talk about a historical figure who made a significant impact on society." },
+        { "title": "Sample 7-8", "content": "Describe a cultural tradition or celebration that you find fascinating." },
+        { "title": "Sample 7-9", "content": "Discuss the challenges of maintaining work-life balance in a fast-paced world." },
+        { "title": "Sample 7-10", "content": "Share your views on the importance of effective communication skills in the digital age." }
+      ]
+    },
+    {
+      "name": "Speaking Test Theme 8",
+      "samples": [
+        { "title": "Sample 8-1", "content": "Discuss the role of government policies in addressing societal issues." },
+        { "title": "Sample 8-2", "content": "Share your experiences with cultural exchange programs or international travel." },
+        { "title": "Sample 8-3", "content": "Talk about the influence of video games on cognitive skills and decision-making." },
+        { "title": "Sample 8-4", "content": "Describe a natural wonder or phenomenon that you find awe-inspiring." },
+        { "title": "Sample 8-5", "content": "Discuss the importance of gender equality and diversity in workplaces." },
+        { "title": "Sample 8-6", "content": "Share your thoughts on the future of space exploration and colonization." },
+        { "title": "Sample 8-7", "content": "Talk about a historical event that shaped the course of human history." },
+        { "title": "Sample 8-8", "content": "Describe a unique cultural dish or cuisine from your heritage." },
+        { "title": "Sample 8-9", "content": "Discuss the challenges and benefits of globalization in the modern world." },
+        { "title": "Sample 8-10", "content": "Share your views on the importance of ethics and moral values in society." }
+      ]
+    }
+  ]
+}
